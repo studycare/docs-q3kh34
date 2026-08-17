@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ovex5g.1casino.co.nz/sitemap.xml
